@@ -19,7 +19,7 @@
 🎨 **Design & Multimídia:**  
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" /> <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-☁️ **Cloud & DevOps:**  
+☁️ **Certificações e Curso: Cloud:**  
 <img src="https://img.shields.io/badge/Formação%20para%20Arquiteto%20de%20Soluções%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />  
 <p align="left">
     <img src="https://github.com/user-attachments/assets/e5a0cd1b-aa86-4e1e-aa79-65f787c02798" alt="image1" width="150">
