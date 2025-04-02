@@ -8,6 +8,9 @@
 - 📍 Sou formada em **Análise e Desenvolvimento de Sistemas** e **Multimídia**  
 - 🚀 Buscando oportunidades na área de **desenvolvimento de jogos**   
 
+## 📫 Como me encontrar  
+📷 [Instagram](https://www.instagram.com/gabidemedeirosf/) | 👔 [LinkedIn](https://www.linkedin.com/in/gabrielledemedeiros/) | 🎨 [Behance](https://www.behance.net/gabriellemedeiros)  
+
 ## 🚀 Habilidades, Tecnologias e Ferramentas  
 
 💻 **Desenvolvimento:**  
@@ -29,14 +32,36 @@
 📂 **Outras Tecnologias:**  
 ✔️ WebDesign | Métodos Ágeis | Fotografia | Pacote Office | Desenho  
 
-## 📫 Como me encontrar  
-📷 Instagram: [gabidemedeirosf](https://www.instagram.com/gabidemedeirosf/)  
-👔 LinkedIn: [Gabrielle Ferreira](https://www.linkedin.com/in/gabrielledemedeiros/)
-🎨 Behance: [Gabrielle de Medeiros](https://www.behance.net/gabriellemedeiros)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielleMFerreira&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielleMFerreira&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleMFerreira&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
-✉️ **Se gostou do meu trabalho, sinta-se à vontade para entrar em contato!**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielleMFerreira&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielleMFerreira&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielleMFerreira&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 
 
