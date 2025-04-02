@@ -1,14 +1,12 @@
 # Olá! 👋 Eu sou a Gabrielle  
 
 🎮 Apaixonada por **desenvolvimento de jogos** e tecnologia!  
-📸 Também atuo com **fotografia, multimídia e edição de vídeos**.  
-💻 Atualmente estudando **Godot e desenvolvimento 2D**.  
+📸 Também atuo com **fotografa, editora de fotos e videos**.  
+💻 Atualmente estudando Atualmente estudando **Analise de Dados, AWS, JavaScript e Godot** 
 
 ## 💡 Sobre mim  
 - 📍 Sou formada em **Análise e Desenvolvimento de Sistemas** e **Multimídia**  
-- 🚀 Buscando oportunidades na área de **desenvolvimento de jogos**  
-- 🎨 Habilidades: **HTML, CSS, JavaScript, Java, Blender, Adobe Suite, React Native**  
-- 🌎 Atualmente estudando **AWS, JavaScript e Godot**  
+- 🚀 Buscando oportunidades na área de **desenvolvimento de jogos**   
 
 ## 🚀 Habilidades, Tecnologias e Ferramentas  
 
@@ -28,12 +26,8 @@
     <img src="https://github.com/user-attachments/assets/f97221e7-6bcd-4b9f-ae30-f4fcf43a44ee" alt="awscp" width="150">
 </p>
 
-
-
-
 📂 **Outras Tecnologias:**  
 ✔️ WebDesign | Métodos Ágeis | Fotografia | Pacote Office | Desenho  
-
 
 ## 📫 Como me encontrar  
 📷 Instagram: [gabidemedeirosf](https://www.instagram.com/gabidemedeirosf/)  
