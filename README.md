@@ -9,7 +9,10 @@ estou constantemente aprimorando minhas habilidades para criar soluções inovad
  
 
 ## 🌐 Redes Sociais:
-📷 [Instagram](https://www.instagram.com/gabidemedeirosf/) | 👔 [LinkedIn](https://www.linkedin.com/in/gabrielledemedeiros/) | 🎨 [Behance](https://www.behance.net/gabriellemedeiros)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabidemedeirosf/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielledemedeiros/) 
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabriellemedeiros) 
+
 
 ## 🚀 Habilidades, Tecnologias e Ferramentas  
 
