@@ -35,7 +35,7 @@ estou constantemente aprimorando minhas habilidades para criar soluções inovad
 📂 **Outras Tecnologias e Habilidades**  
 🎨 **Web Design** | 📷 **Fotografia** | 📌 **Métodos Ágeis** | 📑 **Pacote Office** | ✏️ **Desenho**
 
-
+<!-- -->
 ## 📊 GitHub Stats
 
 <p align="left">
