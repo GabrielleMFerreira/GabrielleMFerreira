@@ -1,4 +1,4 @@
-# 💡Sobre mim: 
+# 💡 Sobre mim: 
 
 🎮 Desenvolvedora| Analista | Fotógrafa!  📸 
 🎓 Sou graduada em **Análise e Desenvolvimento de Sistemas** e técnica em **Multimídia**, combinando minha paixão por tecnologia e criatividade. 
