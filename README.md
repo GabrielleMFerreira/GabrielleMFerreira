@@ -1,14 +1,14 @@
-# Olá! 👋 Eu sou a Gabrielle  
+# 💡Sobre mim: 
 
-🎮 Apaixonada por **desenvolvimento de jogos** e tecnologia!  
-📸 Também atuo com **fotografa, editora de fotos e videos**.  
-💻 Atualmente estudando Atualmente estudando **Analise de Dados, AWS, JavaScript e Godot** 
+🎮 Desenvolvedora| Analista | Fotógrafa!  📸 
+🎓 Sou graduada em **Análise e Desenvolvimento de Sistemas** e técnica em **Multimídia**, combinando minha paixão por tecnologia e criatividade. 
+Tenho experiência com **Java, HTML, CSS, JavaScript** e domínio do **Pacote Adobe**, além de atuar com **fotografia e design**. Sempre em busca de aprendizado contínuo, 
+estou constantemente aprimorando minhas habilidades para criar soluções inovadoras e impactantes.
+  
+💻 Atualmente estudando: **Analise de Dados | AWS SAA | JavaScript | Godot** 🎨
+ 
 
-## 💡 Sobre mim  
-- 📍 Sou formada em **Análise e Desenvolvimento de Sistemas** e **Multimídia**  
-- 🚀 Buscando oportunidades na área de **desenvolvimento de jogos**   
-
-## 📫 Como me encontrar  
+## 🌐 Redes Sociais:
 📷 [Instagram](https://www.instagram.com/gabidemedeirosf/) | 👔 [LinkedIn](https://www.linkedin.com/in/gabrielledemedeiros/) | 🎨 [Behance](https://www.behance.net/gabriellemedeiros)  
 
 ## 🚀 Habilidades, Tecnologias e Ferramentas  
