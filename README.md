@@ -23,7 +23,7 @@
 
 ☁️ **Cloud & DevOps:**  
 <img src="https://img.shields.io/badge/Formação%20para%20Arquiteto%20de%20Soluções%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />  
-<p align="center">
+<p align="left">
     <img src="https://github.com/user-attachments/assets/e5a0cd1b-aa86-4e1e-aa79-65f787c02798" alt="image1" width="150">
     <img src="https://github.com/user-attachments/assets/f97221e7-6bcd-4b9f-ae30-f4fcf43a44ee" alt="awscp" width="150">
 </p>
