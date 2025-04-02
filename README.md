@@ -29,8 +29,8 @@
     <img src="https://github.com/user-attachments/assets/f97221e7-6bcd-4b9f-ae30-f4fcf43a44ee" alt="awscp" width="150">
 </p>
 
-📂 **Outras Tecnologias:**  
-✔️ WebDesign | Métodos Ágeis | Fotografia | Pacote Office | Desenho  
+📂 **Outras Tecnologias e Habilidades**  
+🎨 **Web Design** | 📷 **Fotografia** | 📌 **Métodos Ágeis** | 📑 **Pacote Office** | ✏️ **Desenho**
 
 
 ## 📊 GitHub Stats
