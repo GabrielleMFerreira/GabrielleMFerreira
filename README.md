@@ -1,6 +1,6 @@
-# 💡 Sobre mim: 
+# 📸 Sobre mim: 
 
-🎮 Desenvolvedora| Analista | Fotógrafa!  📸 
+🎮 Desenvolvedora | Analista | Fotógrafa!  📸 
 🎓 Sou graduada em **Análise e Desenvolvimento de Sistemas** e técnica em **Multimídia**, combinando minha paixão por tecnologia e criatividade. 
 Tenho experiência com **Java, HTML, CSS, JavaScript** e domínio do **Pacote Adobe**, além de atuar com **fotografia e design**. Sempre em busca de aprendizado contínuo, 
 estou constantemente aprimorando minhas habilidades para criar soluções inovadoras e impactantes.
